@@ -1,6 +1,8 @@
-# Quizlet Gravity Classic — no online leaderboards
+# Quizlet Gravity Classic — historical snapshot
 
-This is the classic version of my Quizlet Gravity recreation. I kept this source snapshot from 6 November 2026, before I added accounts, shared games and online leaderboards.
+**This is the older version, not the source of the current live website. For my current site and apps, use [quizlet-gravity](https://github.com/markosaraf/quizlet-gravity).**
+
+This is the classic version of my Quizlet Gravity recreation. I kept this source snapshot from 6 November 2026 as a reference from before I added accounts, shared games and online leaderboards. Both repositories are public: this one preserves the older version, while `quizlet-gravity` is where I continue development.
 
 - Website source: repository root, original commit `cc44e42`.
 - Android and iOS sources: `mobile/`, original commit `114314a`, including the existing local Xcode team configuration.
@@ -14,7 +16,7 @@ I continue developing the version with accounts and online leaderboards at https
 
 ## Original Quizlet Gravity sources — permanent reference
 
-These are the Web Archive sources I used to study the original Gravity game: playable page snapshots, game logic, styles, images and fonts. **Keep this source list in this README. Never remove it during a rewrite, cleanup or release.** Add new references without replacing the recovered ones.
+These are the Web Archive sources I used to study the original Gravity game: playable page snapshots, game logic, styles, images and fonts.
 
 These links come from my source collection dated **3 September 2026**. I keep the complete historical notes unchanged in [the original recovery kit](docs/original-gravity-recovery-kit.md). Availability and verification claims in that document refer to the collection date.
 

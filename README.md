@@ -1,6 +1,6 @@
 # Quizlet Gravity Classic — no online leaderboards
 
-Frozen source snapshot taken on 6 November 2026, before the accounts/shared-sets release.
+This is the classic version of my Quizlet Gravity recreation. I kept this source snapshot from 6 November 2026, before I added accounts, shared games and online leaderboards.
 
 - Website source: repository root, original commit `cc44e42`.
 - Android and iOS sources: `mobile/`, original commit `114314a`, including the existing local Xcode team configuration.
@@ -10,13 +10,13 @@ Frozen source snapshot taken on 6 November 2026, before the accounts/shared-sets
 
 See [original website notes](README-website-original.md) and [mobile build instructions](mobile/BUILDING.md).
 
-The current accounts/leaderboards edition is maintained at https://github.com/markosaraf/quizlet-gravity.
+I continue developing the version with accounts and online leaderboards at https://github.com/markosaraf/quizlet-gravity.
 
 ## Original Quizlet Gravity sources — permanent reference
 
-These are the Web Archive sources used to study the original Gravity game: playable page snapshots, game logic, styles, images and fonts. **Keep this source list in this README. Never remove it during a rewrite, cleanup or release.** Add new references without replacing the recovered ones.
+These are the Web Archive sources I used to study the original Gravity game: playable page snapshots, game logic, styles, images and fonts. **Keep this source list in this README. Never remove it during a rewrite, cleanup or release.** Add new references without replacing the recovered ones.
 
-Recovered from the source collection dated **3 September 2026**. Its complete historical notes are preserved unchanged in [the original recovery kit](docs/original-gravity-recovery-kit.md). Availability and verification claims in that document refer to the collection date.
+These links come from my source collection dated **3 September 2026**. I keep the complete historical notes unchanged in [the original recovery kit](docs/original-gravity-recovery-kit.md). Availability and verification claims in that document refer to the collection date.
 
 - [Archived game page — June 2019](https://web.archive.org/web/20190609163653/https://quizlet.com/100056322/gravity)
 - [Archived game page — September 2023](https://web.archive.org/web/20230928234054/https://quizlet.com/10051542/gravity)
@@ -44,4 +44,4 @@ The “golden” CSS URL ends in `.css`; the dot and “THIS IS THE GOLDEN LINK!
 
 For another set, use `https://web.archive.org/web/2023/https://quizlet.com/<SET_ID>/gravity`. Raw archived files use `https://web.archive.org/web/<TIMESTAMP>id_/<ORIGINAL_ASSET_URL>`.
 
-The current game is an independent project by **Marko Sarafijanovic**, not affiliated with Quizlet. These references preserve the project's development history; they do not transfer ownership of Quizlet's original code or artwork.
+This is my independent project, and I am not affiliated with Quizlet. I keep these references to document how I developed it. Quizlet's original code and artwork remain their property.
